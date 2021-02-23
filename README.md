@@ -8,7 +8,9 @@ The video gives you all the information you need to create your own LoRa system.
 
 Here you can find a parts list with example seller:
 
-RFM95 Break-out Board – Bare PCB: PCB: https://www.elektor.com/rfm95-break-out-board-bar...
+RFM95 Break-out Board – 
+https://www.elektor.com/rfm95-break-out-board-bar...
+https://www.amazon.com/Sunhokey-Transceiver-Compatible-Technical-Green-RFM95W/dp/B07VWQY6GG/ref=sr_1_2?dchild=1&keywords=RFM95W+915Mhz&qid=1614110103&s=electronics&sr=1-2
 
 RFM95 Ultra LoRa Transceiver Module (868/915 MHz): https://www.elektor.com/rfm95-ultra-lora-transceiv...
 
