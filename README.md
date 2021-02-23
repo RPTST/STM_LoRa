@@ -27,6 +27,7 @@ PCB Terminal: https://s.click.aliexpress.com/e/_dX5BMK1
 Files in the schematic folder for the receiver and transmitter. Use them along with the reference pictures of my finished circuits in order to create your own. 
 
 Here you can find the codes that I created for the project. Upload them using the Arduino IDE. But make sure to include/download those libraries:
+
 https://github.com/stm32duino/Arduino_Core_STM32
 
 https://github.com/sandeepmistry/arduino-LoRa
