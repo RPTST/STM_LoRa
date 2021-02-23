@@ -1,6 +1,7 @@
 In this project I will show you how to build a small LoRa transmitter and receiver with the help of STM32 development boards and RFM95 LoRa modules. This LoRa System can basically transmit an alarm signal from my garage to my apartment wirelessly through the air. The transmitter and receiver feature a distance of around 600m to one another.
 
 https://www.youtube.com/watch?v=ItZwa1AdrpU
+https://www.instructables.com/DIY-LoRa-System/
 
 The video gives you all the information you need to create your own LoRa system. During the next steps though, I will present you some additional information. 
 
