@@ -8,19 +8,15 @@ The video gives you all the information you need to create your own LoRa system.
 
 Here you can find a parts list with example seller:
 
-RFM95 Break-out Board – 
-
-https://www.elektor.com/rfm95-break-out-board-bar...
-
-https://www.amazon.com/Sunhokey-Transceiver-Compatible-Technical-Green-RFM95W/dp/B07VWQY6GG/ref=sr_1_2?dchild=1&keywords=RFM95W+915Mhz&qid=1614110103&s=electronics&sr=1-2
+RFM95 Break-out Board – https://www.amazon.com/Sunhokey-Transceiver-Compatible-Technical-Green-RFM95W/dp/B07VWQY6GG/ref=sr_1_2?dchild=1&keywords=RFM95W+915Mhz&qid=1614110103&s=electronics&sr=1-2
 
 RFM95 Ultra LoRa Transceiver Module (868/915 MHz): https://www.elektor.com/rfm95-ultra-lora-transceiv...
 
-STM32 Nucleo L476RG Board: https://www.elektor.com/stm32-nucleo-l476rg-board
+STM32 Nucleo L476RG Board: https://www.amazon.com/STM32-Nucleo-64-development-STM32L476RG-NUCLEO-L476RG/dp/B01IO3N646
 
-Dragino LG02 Dual Channels LoRa IoT Gateway: https://www.elektor.com/dragino-lg02-dual-channels...
+Dragino LG02 Dual Channels LoRa IoT Gateway: https://www.amazon.com/Dragino-Channels-Distance-Wireless-Transmit/dp/B07JBDDP63
 
-5V Buzzer: https://s.click.aliexpress.com/e/_Bf6g8HUZ
+5V Buzzer: https://www.amazon.com/uxcell-3-24V-Sound-Electronic-Buzzer/dp/B00OK5Y12Y/ref=sr_1_2?crid=3UFZARG1JAJ89&dchild=1&keywords=5v+buzzer&m=A1THAZDOWP300U&qid=1614110435&refinements=p_6%3AA1THAZDOWP300U&rnid=303116011&s=electronics&sprefix=5V+Buzzer%2Celectronics%2C151&sr=1-2
 
 MOSFET: https://s.click.aliexpress.com/e/_d8ocEHJ
 
