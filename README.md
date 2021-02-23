@@ -20,7 +20,7 @@ Dragino LG02 Dual Channels LoRa IoT Gateway: https://www.amazon.com/Dragino-Chan
 
 MOSFET: https://s.click.aliexpress.com/e/_d8ocEHJ
 
-PCB Terminal: https://s.click.aliexpress.com/e/_dX5BMK1
+PCB Terminal: https://www.amazon.com/uxcell-Screw-Terminal-Block-3-5mm/dp/B01C3DGIBQ/ref=sr_1_18?dchild=1&keywords=pcb+screw+terminal+2+pin&qid=1614111090&sr=8-18
 
 10 ohm Resistor: https://www.amazon.com/uxcell-Resistor-Resistors-Tolerance-300pcs/dp/B07QGQ5XHM/ref=sr_1_1_sspa?crid=2ZSS64CZKETU1&dchild=1&keywords=10+ohm+resistor+smd&qid=1614110777&sprefix=10+ohm+Resistor+s%2Caps%2C141&sr=8-1-spons&psc=1&smid=A1THAZDOWP300U&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFDUDc3SkxRSkxVNjQmZW5jcnlwdGVkSWQ9QTA2MTYxMjgxNjAyNDNUS0IwTUcyJmVuY3J5cHRlZEFkSWQ9QTA2OTUzODkzU1c3UERLT1lSMDRNJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==
 
