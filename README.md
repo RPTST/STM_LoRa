@@ -6,14 +6,22 @@ https://www.instructables.com/DIY-LoRa-System/
 
 The video gives you all the information you need to create your own LoRa system. During the next steps though, I will present you some additional information. 
 
-Here you can find a parts list with example seller (affiliate links):
+Here you can find a parts list with example seller:
+
 RFM95 Break-out Board – Bare PCB: PCB: https://www.elektor.com/rfm95-break-out-board-bar...
+
 RFM95 Ultra LoRa Transceiver Module (868/915 MHz): https://www.elektor.com/rfm95-ultra-lora-transceiv...
+
 STM32 Nucleo L476RG Board: https://www.elektor.com/stm32-nucleo-l476rg-board
+
 Dragino LG02 Dual Channels LoRa IoT Gateway: https://www.elektor.com/dragino-lg02-dual-channels...
+
 5V Buzzer: https://s.click.aliexpress.com/e/_Bf6g8HUZ
+
 MOSFET: https://s.click.aliexpress.com/e/_d8ocEHJ
+
 PCB Terminal: https://s.click.aliexpress.com/e/_dX5BMK1
+
 10 ohm Resistor: https://s.click.aliexpress.com/e/_dTPpXjt
 
 Files in the schematic folder for the receiver and transmitter. Use them along with the reference pictures of my finished circuits in order to create your own. 
