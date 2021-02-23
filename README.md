@@ -18,7 +18,7 @@ Dragino LG02 Dual Channels LoRa IoT Gateway: https://www.amazon.com/Dragino-Chan
 
 5V Buzzer: https://www.amazon.com/uxcell-3-24V-Sound-Electronic-Buzzer/dp/B00OK5Y12Y/ref=sr_1_2?crid=3UFZARG1JAJ89&dchild=1&keywords=5v+buzzer&m=A1THAZDOWP300U&qid=1614110435&refinements=p_6%3AA1THAZDOWP300U&rnid=303116011&s=electronics&sprefix=5V+Buzzer%2Celectronics%2C151&sr=1-2
 
-MOSFET: https://s.click.aliexpress.com/e/_d8ocEHJ
+irlml6344trpbf MOSFET: https://s.click.aliexpress.com/e/_d8ocEHJ
 
 PCB Terminal: https://www.amazon.com/uxcell-Screw-Terminal-Block-3-5mm/dp/B01C3DGIBQ/ref=sr_1_18?dchild=1&keywords=pcb+screw+terminal+2+pin&qid=1614111090&sr=8-18
 
